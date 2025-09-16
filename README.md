@@ -80,23 +80,11 @@ It provides insights into attrition rates, employee demographics, job satisfacti
 
 ---
 
-## 🔗 Connect with Me  
+## 🔗 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rohitjaiswalrj32/">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://rohitjaiswalrj32.github.io/Portfolio/">
-    <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:rohitjaiswalrj32@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://public.tableau.com/app/profile/rohit.jaiswal8824/">
-    <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitjaiswalrj32/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733?style=for-the-badge&logo=googlesites&logoColor=white)](https://rohitjaiswalrj32.github.io/Portfolio/)  
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitjaiswalrj32@gmail.com)  
+[![Tableau](https://img.shields.io/badge/Tableau-%232E9CCA?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/rohit.jaiswal8824/)
+
 ---
