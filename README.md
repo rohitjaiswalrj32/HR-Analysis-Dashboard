@@ -80,14 +80,23 @@ It provides insights into attrition rates, employee demographics, job satisfacti
 
 ---
 
-## 🔗 Links
+## 🔗 Connect with Me  
 
-- **GitHub Repository:** [HR Analysis Dashboard](https://github.com/rohitjaiswalrj32/HR-Analysis-Dashboard)  
-- **LinkedIn:** [Rohit Jaiswal](https://www.linkedin.com/in/rohitjaiswalrj32/)  
-- **Tableau Profile:** [Rohit Jaiswal](https://public.tableau.com/app/profile/rohit.jaiswal8824/)  
-- **Portfolio:** [Rohit Jaiswal](https://rohitjaiswalrj32.github.io/Portfolio/)  
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohitjaiswalrj32/">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://rohitjaiswalrj32.github.io/Portfolio/">
+    <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:rohitjaiswalrj32@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://public.tableau.com/app/profile/rohit.jaiswal8824/">
+    <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau"/>
+  </a>
+</p>
 ---
-
-## 📂 Repository Structure
-
