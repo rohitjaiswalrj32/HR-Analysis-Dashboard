@@ -82,8 +82,6 @@ It provides insights into attrition rates, employee demographics, job satisfacti
 
 ## 🔗 Connect with Me
 
-## 🔗 Connect with Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitjaiswalrj32/) &nbsp;&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733?style=for-the-badge&logo=googlesites&logoColor=white)](https://rohitjaiswalrj32.github.io/Portfolio/) &nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitjaiswalrj32@gmail.com) &nbsp;&nbsp;
